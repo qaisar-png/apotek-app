@@ -14,3 +14,6 @@
 - /api/pelanggan
 - /api/staf-apotek
 - /api/obat
+## Anggota Kelompok
+- QAISAR
+- Yanis
